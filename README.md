@@ -7,4 +7,4 @@ The Practical Exercise from Lesson 1 - Simple Reddit Clone
 + Once successfully installed, run `cd dist` to get into the distribution folder  
 + In the **dist** folder, run `now`. Follow the prompts, confirm the email, and re-run if required  
 + A line in the command window should read **ready!** with a random address next to it. Beneath that line there should be a **Success! Deployment complete!** message  
-+ Follow [the link](https://dist-vdcbfvdruw.now.sh) to your deployed website
++ Follow [the link](https://dist-zsmlciypeh.now.sh) to your deployed website
