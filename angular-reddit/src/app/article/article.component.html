@@ -1,6 +1,7 @@
 <div class="four wide column center aligned votes">
 	<div class="ui statistic">
 		<div class="value">
+			<!-- Directly accessing the model's properties -->
 			{{ article.votes }}
 		</div>
 		<div class="label">
@@ -15,6 +16,7 @@
 	<div class="meta">({{article.domain()}})</div>
 	<ul class="ui big horizontal list voters">
 		<li class="item">
+			<!-- Attaching our vote event -->
 			<a href (click)="voteUp()">
 				<i class="arrow up icon"></i>
 				upvote
